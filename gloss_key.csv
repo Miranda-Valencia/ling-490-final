@@ -1,0 +1,47 @@
+rank,gloss,definition
+1,A,transitive subject
+2,ADM,admirative
+3,ADV,adverbial
+4,APASS,antipassive
+5,APPL,applicative
+6,CAUS,causative
+7,CLF,classifier
+8,COMP,complementizer
+9,COP,copula
+10,DESID,desiderative
+11,DIM,diminutive
+12,EMPH,emphatic particle
+13,EP,epenthetic consonant
+14,EXC,1st person plural exclusive
+15,EXCL,excalmatory particle
+16,FIN,final partical
+17,HAB,habitual
+18,IMP.POL,imperative polite
+19,INFR.EV,inferential evidential
+20,INTR,intransitivizer
+21,ITR,iterative
+22,NEG,negation
+23,NI,noun incorporation
+24,NMLZ,nominalizer
+25,NONVIS.EV,nonvisual evidential
+26,O,object
+27,P.RED,partial reduplication
+28,PERF,perfect
+29,PF,prefix
+30,PL,plural
+31,POSS,possessive
+32,PROH,prohibative
+33,Q,question
+34,QUOT,quotative
+35,REC,reciprocal
+36,REFL,reflexive
+37,REP.EV,reportative evidential
+38,RES,resultative
+39,RFN,refrain
+40,RTM,rhythm
+41,S,intransitive subject
+42,SG,singular
+43,SGST,suggestive final particle
+44,TOP,topic
+45,TR,transitivizer
+46,VIS.EV,visual evidential
