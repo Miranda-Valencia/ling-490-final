@@ -1,0 +1,10 @@
+Rank,Changes
+1,split text to columns to separate line number from text
+2,add folktale.id column
+3,combine glosses and translations from the original pdfs
+4,fix minor spelling mistakes
+5,hand-type gloss information from website
+6,change line convention from the plain number to --> Story#.Line#
+7,gaurentee complete line# by added an extra decimal point when ending in a 0
+8,create new table with glosses and their full names
+9,create new table on the labovian structure and presence of small stories for each line
