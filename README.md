@@ -9,7 +9,11 @@ The purpose of this data was to analyze the narrative structure of Hokkaido Ainu
 concept of "small" stories. 
 
 The following .csv files are available:
-  -ain-narrative.csv
-  -gloss_key.csv
-  -notes.csv
-  -structure_type.csv
+  1. ain-narrative.csv
+         includes the line number in association with the story along with the Hokkaido Ainu transcriptions, English gloss, English translation, and Japanese translation.
+  3. gloss_key.csv
+         includes the abbreviated and unabbreviated forms of the gloss
+  5. notes.csv
+         makes note of what changes occured to the data
+  7. structure_type.csv
+         aligns each line of the folktales with its structure type according to Labovian structure and whether a "small" story occurs. These were made via personal judgements.
